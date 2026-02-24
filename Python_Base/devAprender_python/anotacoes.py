@@ -14,3 +14,8 @@ print(type(peso)) #Para verificar o tipo de uma variavel (Print imprime o valor 
     # Dois iguais "==" para validar igualdade, 1 igual "=" para atribuir valor
     #Elif = um if mas com uma condicional a mais para a validação
     #Caso nem o if, nem o elif forem True, ele vai para o Else
+
+
+#Laços de repetição (loop)
+#for itera por uma lista ou range delimitado (ou seja, você sabe quantas vezes vai fazer o loop)
+#while pode ser um loop infinito enquanto a condição for true
