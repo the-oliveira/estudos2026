@@ -1,8 +1,8 @@
-#Script que leia 2 numeros e mostre a soma entre eles
+#Script para ler dia, mês e ano de nascimento de uma pessoa e mostrar as informações formatadas corretamente
 
-print('Vamos somar 2 números...')
-n1 = int(input('Digite um número: '))
-n2 = int(input('Digite outro número: '))
-soma = n1 + n2
+print('Olá! Vamos confirmar a sua data de nascimento...')
+dia = int(input('Você nasceu em que dia? '))
+mes = str(input('De qual mês? '))
+ano = int(input('De que ano? '))
 
-print(f'{n1} + {n2} = {soma}')
+print(f'Você nasceu no dia {dia} de {mes} de {ano}?')
