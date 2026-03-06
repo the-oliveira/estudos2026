@@ -8,8 +8,8 @@ media = (n1 + n2 + n3 + n4) / 4
 print(f'As notas foram: {n1}, {n2}, {n3}, {n4}')
 
 if media >= 6:
-    print(f'A média final foi {media}, você está aprovado!')
+    print(f'A média final foi {media:.2f}, você está aprovado!')
 elif media < 6 and media >= 4:
-    print(f'Você ficou de recuperação! Sua média foi {media}')
+    print(f'Você ficou de recuperação! Sua média foi {media:.2f}')
 else:
-    print(f'Sua média foi {media}, portanto está reprovado!')
+    print(f'Sua média foi {media:.2f}, portanto está reprovado!')
