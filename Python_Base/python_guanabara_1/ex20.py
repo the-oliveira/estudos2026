@@ -6,7 +6,6 @@ seno_x = seno(rad(x))
 cosen_x = cosseno(rad(x))
 tang_x = tangente(rad(x))
 
-
 print(f'O seno, cosseno e tangente de {x}° são: ')
 print(f'Seno: {seno_x:.2f}')
 print(f'Cosseno: {cosen_x:.2f}')
