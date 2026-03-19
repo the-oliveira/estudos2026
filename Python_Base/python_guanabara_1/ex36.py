@@ -1,0 +1,1 @@
+#Programa que recebe 3 seguimentos de retas e vai responder se pode ou não formar um triangulo.
