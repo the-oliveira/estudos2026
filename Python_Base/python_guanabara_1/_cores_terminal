@@ -1,0 +1,9 @@
+
+#Formato para adicionar a cor (código ANSI):
+#\033[style;texto;background m
+
+#Estilo: 0 - nada, 1 - Negrito, 4 - Underline, 7 - Negativo
+#text: 30 a 37 são as cores da letra (Branco, vermelho, verde, amarelo, azul, roxo, ciano e cinza)
+#Background: 40 a 47 são as cores do fundo (mesma ordem)
+
+print('\033[0;30;41mteste cores no terminal')
