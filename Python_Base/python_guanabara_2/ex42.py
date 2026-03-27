@@ -4,9 +4,9 @@
 #até 18 anos = junior, 
 #até 20 anos = sênior, 
 #acima de 30 = Master
-from datetime import datetime
+from datetime import date
 
-dt_atual = datetime.today().year
+dt_atual = date.today().year
 dt_nasc = int(input('Em que ano o atleta nasceu? '))
 idade = dt_atual - dt_nasc
 
