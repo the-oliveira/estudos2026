@@ -1,0 +1,1 @@
+#lê o primeiro termo e a razão de uma PA com os 10 primeiros termos

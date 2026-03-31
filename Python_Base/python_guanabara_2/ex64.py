@@ -1,0 +1,1 @@
+#lê um valor inteiro e mostra os primeiros elementos de uma sequência de fibonacci
