@@ -24,4 +24,4 @@ while True:
         sleep(1)
 
 sleep(1)
-print(f'Você acertou em {tentativas}!')
+print(f'Você acertou em {tentativas} tentativas!')

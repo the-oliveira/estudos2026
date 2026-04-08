@@ -35,3 +35,4 @@ for n in list_nums: #Iniciando o loop
 
 
 
+
