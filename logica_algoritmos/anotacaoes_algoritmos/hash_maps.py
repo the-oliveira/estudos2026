@@ -25,7 +25,7 @@ Então da para usar Hash Map para destravar a solução.
 #Exemplo:
 
 list_nums = [0, 1, 22, 33, 23, 2, 4]
-hash_map = {} #Iniciando o mapa
+hash_map = dict() #Iniciando o mapa
 
 for n in list_nums: #Iniciando o loop
     if n not in hash_map:
